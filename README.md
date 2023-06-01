@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋  
+<img align="right" top="0"  alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
-<!--
-**zhishuchen/zhishuchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<br/>
 
-Here are some ideas to get you started:
+追求源于热爱，极致源于梦想
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+强者不在意质疑，只在乎专心做事。   
+
+与人打交道是保持社会关系的关键。  
+
+在下黄枫谷厉飞雨，请赐教。
+
+永远年轻，永远热泪盈眶。:laughing:
+
+
+
+
+<img align="center"  width="415"  src="https://github-readme-streak-stats.herokuapp.com/?user=zhishuchen&hide_border=true" />
+  
+  
